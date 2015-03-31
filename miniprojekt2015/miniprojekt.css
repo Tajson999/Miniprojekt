@@ -1,0 +1,37 @@
+#bild-html{
+	float: left;
+}
+#bild-css{
+	margin-right: 0px;
+	float: right;
+}
+.p-index{
+	padding-left: 37%;
+	text-align: center;
+	float: left;
+}
+header{
+	font-size: 50px;
+	font-weight: bold;
+}
+.div-index{
+	padding-top: 15%;
+	padding-bottom: 10px;
+	font-size: 20px;
+}
+body{
+	background-color: #EBF7FC;
+}
+#footer{
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+	position: fixed;
+	background-color: #8BAFFC; 
+	text-align: center;
+}
+.div-index-beskrivning{
+	padding-left: 10px;
+	width: 500px;
+	font-size:  15px;
+}
