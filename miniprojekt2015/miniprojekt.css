@@ -1,8 +1,12 @@
 #bild-html{
 	float: left;
+	max-width: 500px;
+	width: 45%;
 }
 #bild-css{
 	margin-right: 0px;
+	max-width: 500px;
+	width: 45%;
 	float: right;
 }
 .p-index{
